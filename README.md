@@ -1,2 +1,3 @@
-Machine Learning Data Analysis
-This details day to day status of the course
+Machine Learning Data Analysis, this details day to day status of the course
+
+-> python basics Day-1
